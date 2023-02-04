@@ -1,0 +1,1 @@
+No of elements of A in the filter is : 504 

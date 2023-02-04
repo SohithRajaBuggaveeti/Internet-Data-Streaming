@@ -1,0 +1,2 @@
+No of elements of A in the filter is : 1000 
+No of elements of B in the filter is : 14 

@@ -1,0 +1,5 @@
+True spread = 100		 Estimated spread = 100.5033585350145
+True spread = 1000		 Estimated spread = 988.263543068949
+True spread = 10000		 Estimated spread = 9490.722213985346
+True spread = 100000		 Estimated spread = 70131.15794639963
+True spread = 1000000		 Estimated spread = Infinity

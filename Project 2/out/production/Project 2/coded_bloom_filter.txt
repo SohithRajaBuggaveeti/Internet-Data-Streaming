@@ -1,0 +1,1 @@
+No of elements of A in the filter with the correct lookup is : 6489 
